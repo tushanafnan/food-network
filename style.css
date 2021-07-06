@@ -199,6 +199,8 @@
         
         input {
             background-color: rgb(190, 190, 190);
+            padding-right: 102px;
+            padding-top: 8px;
         }
         
         .submit {
